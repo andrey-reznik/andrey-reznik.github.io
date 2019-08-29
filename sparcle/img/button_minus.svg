@@ -1,0 +1,21 @@
+<svg id="_-_button" data-name="- button" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #b4b4b4;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: #b4b4b4;
+      }
+    </style>
+  </defs>
+  <circle id="bg_-" data-name="bg -" class="cls-1" cx="17.5" cy="17.5" r="17"/>
+  <rect id="_-" data-name="-" class="cls-2" x="10.5" y="16.5" width="15" height="3"/>
+</svg>
